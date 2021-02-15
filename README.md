@@ -1,9 +1,9 @@
 # Rate Limit
 
-[![Build](https://github.com/nikolaposa/rate-limit/workflows/Build/badge.svg?branch=master)](https://github.com/nikolaposa/rate-limit/actions)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nikolaposa/rate-limit/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nikolaposa/rate-limit/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/nikolaposa/rate-limit/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/nikolaposa/rate-limit/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/nikolaposa/rate-limit/v/stable)](https://packagist.org/packages/nikolaposa/rate-limit)
+[![Build](https://github.com/samescolas/rate-limit/workflows/Build/badge.svg?branch=master)](https://github.com/samescolas/rate-limit/actions)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/samescolas/rate-limit/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/samescolas/rate-limit/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/samescolas/rate-limit/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/samescolas/rate-limit/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/samescolas/rate-limit/v/stable)](https://packagist.org/packages/samescolas/rate-limit)
 [![PDS Skeleton](https://img.shields.io/badge/pds-skeleton-blue.svg)](https://github.com/php-pds/skeleton)
 
 
@@ -15,7 +15,7 @@ The preferred method of installation is via [Composer](http://getcomposer.org/).
 command to install the latest version of a package and add it to your project's `composer.json`:
 
 ```bash
-composer require nikolaposa/rate-limit
+composer require samescolas/rate-limit
 ```
 
 ## Usage
@@ -66,5 +66,5 @@ echo $status->getRemainingAttempts(); //99
 Released under MIT License - see the [License File](LICENSE) for details.
 
 
-[link-author]: https://github.com/nikolaposa
+[link-author]: https://github.com/samescolas
 [link-contributors]: ../../contributors
