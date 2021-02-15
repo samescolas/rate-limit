@@ -1,5 +1,5 @@
 {
-    "name": "nikolaposa/rate-limit",
+    "name": "samescolas/rate-limit",
     "description": "General purpose rate limiter implementation.",
     "type": "library",
     "license": "MIT",
@@ -9,9 +9,9 @@
     ],
     "authors": [
         {
-            "name": "Nikola Poša",
-            "email": "posa.nikola@gmail.com",
-            "homepage": "https://www.nikolaposa.in.rs"
+            "name": "Sam Escolas",
+            "email": "samescolas@gmail.com",
+            "homepage": ""
         }
     ],
     "config": {
